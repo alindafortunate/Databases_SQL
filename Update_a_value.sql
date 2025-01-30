@@ -1,0 +1,1 @@
+UPDATE Orders  SET Total = 8 WHERE CustomerID=1 AND OrderID = 80;

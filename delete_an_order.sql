@@ -1,0 +1,2 @@
+DELETE FROM Orders
+WHERE CustomerID=3;
